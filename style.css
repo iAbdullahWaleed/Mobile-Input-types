@@ -7,15 +7,19 @@ header
   height: auto;
   overflow: hidden;
 }
-header .info
+header .info , section .info
 {
   width: 50%;
   float: right;
   padding: 30px;
 }
-header img
+header img , section img
 {
   width: 30%;
+}
+.text
+{
+  background-color: lightgreen;
 }
 /* co */
 .container {
